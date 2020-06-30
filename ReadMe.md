@@ -24,3 +24,4 @@ pytest -m "not regration"
 
 for command line print
 pytest -v --capture=no
+check new
